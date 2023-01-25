@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yya6UJ5r2rymbsWbrTjAFybhNVpF2YiEd0gELB1SD+4=",
+  "Source": "CaaS.Api",
+  "BasePath": "_content/CaaS.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

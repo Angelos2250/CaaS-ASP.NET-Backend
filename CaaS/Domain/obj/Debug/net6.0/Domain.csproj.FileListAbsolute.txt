@@ -1,0 +1,15 @@
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\Domain\bin\Debug\net6.0\Domain.exe
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\Domain\bin\Debug\net6.0\Domain.dll
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\Domain\bin\Debug\net6.0\Domain.pdb
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\Domain\obj\Debug\net6.0\Domain.dll
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\Domain\obj\Debug\net6.0\Domain.pdb
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\Domain\obj\Debug\net6.0\ref\Domain.dll

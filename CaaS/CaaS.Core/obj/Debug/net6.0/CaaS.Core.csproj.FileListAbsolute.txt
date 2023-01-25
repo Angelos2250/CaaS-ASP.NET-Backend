@@ -1,0 +1,23 @@
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\bin\Debug\net6.0\Data Access Layer.deps.json
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\bin\Debug\net6.0\Data Access Layer.runtimeconfig.json
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\bin\Debug\net6.0\Domain.deps.json
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\bin\Debug\net6.0\Domain.exe
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\bin\Debug\net6.0\Data Access Layer.exe
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\bin\Debug\net6.0\CaaS.Core.deps.json
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\bin\Debug\net6.0\CaaS.Core.dll
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\bin\Debug\net6.0\CaaS.Core.pdb
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\bin\Debug\net6.0\Data Access Layer.dll
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\bin\Debug\net6.0\Domain.dll
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\bin\Debug\net6.0\Data Access Layer.pdb
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\bin\Debug\net6.0\Domain.pdb
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\obj\Debug\net6.0\CaaS.Core.csproj.AssemblyReference.cache
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\obj\Debug\net6.0\CaaS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\obj\Debug\net6.0\CaaS.Core.AssemblyInfoInputs.cache
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\obj\Debug\net6.0\CaaS.Core.AssemblyInfo.cs
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\obj\Debug\net6.0\CaaS.Core.csproj.CoreCompileInputs.cache
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\obj\Debug\net6.0\CaaS.Core.csproj.CopyComplete
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\obj\Debug\net6.0\CaaS.Core.dll
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\obj\Debug\net6.0\refint\CaaS.Core.dll
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\obj\Debug\net6.0\CaaS.Core.pdb
+C:\CodeSpace\caas-vz-g2-angelis\CaaS\CaaS.Core\obj\Debug\net6.0\ref\CaaS.Core.dll

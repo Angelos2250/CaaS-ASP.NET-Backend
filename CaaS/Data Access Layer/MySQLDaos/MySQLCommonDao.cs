@@ -1,0 +1,15 @@
+﻿using Data_Access_Layer.Ados;
+using Data_Access_Layer.Common;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Data_Access_Layer.MySQLDaos
+{
+    public class MySQLCommonDao : AdoCommonDao
+    {
+        public MySQLCommonDao(IConnectionFactory connectionFactory) : base(connectionFactory) { }
+    }
+}
